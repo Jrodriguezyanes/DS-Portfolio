@@ -19,4 +19,5 @@ Filtro de outliers,seleccion de modelo,hyperparametrizacion. Esta aplicado solam
 Using NLTK to analyse the frequency of certain words usage by the two largest political partys in Argentina and then using the same data to build a classifier that determines if one tweet is either from "Peronism" or "Pro"
 
 Data source : Scrapped by myself using twitter API
+
 1.[Notebook](https://github.com/Jrodriguezyanes/SUBTES/blob/master/Twitter/TwitterNLP.ipynb)
